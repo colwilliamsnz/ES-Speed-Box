@@ -16,8 +16,8 @@ Power to the circuit is controlled via an SSR (solid state relay) and is intende
 
 1. Powered on when the amplifier is on/phono aux input is on.
 2. Provide power to both the turntable but also an Phono Box II pre-amp.
-3. I^{2}C interface to allow connection of an OLED screen to display speed and amp volume (amp volume via Yamaha API).
+3. I2C interface to allow connection of an OLED screen to display speed and amp volume (amp volume via Yamaha API).
 4. Low profile design to fit in a small rack mountable case.
 
-![Prototype](KiCad/Board1 - Power Supply/Images/pcb.png)
-![Prototype](KiCad/Board2 - Controller/Images/pcb.png)
+![Prototype](KiCad/Board1/Images/pcb.png)
+![Prototype](KiCad/Board2/Images/pcb.png)

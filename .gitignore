@@ -22,5 +22,5 @@ fp-info-cache
 *.app
 
 # Arduino
-\build\
+build
 credentials.h
