@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 5,
+    "active_layer": 0,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -123,18 +123,6 @@
           "pos_y": 25,
           "size_x": 2560,
           "size_y": 1301
-        }
-      },
-      {
-        "name": "ES-Speed-Box-Controller.kicad_sch",
-        "open": false,
-        "window": {
-          "display": 1,
-          "maximized": true,
-          "pos_x": -2263,
-          "pos_y": 145,
-          "size_x": 1792,
-          "size_y": 1039
         }
       }
     ]
